@@ -10,12 +10,12 @@
     <packaging>war</packaging>
 
     <dependencies>
+
         <dependency>
             <groupId>org.smart4j</groupId>
             <artifactId>smart-framework</artifactId>
-            <version>1.0.0</version>
+            <version>1.0.1</version>
         </dependency>
-
 
     </dependencies>
 
